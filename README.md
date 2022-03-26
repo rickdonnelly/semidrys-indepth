@@ -74,7 +74,7 @@ Bottom line: The SD Combat easily beat out those I tried before it, and I was ha
 
 ### The O'Three 65 Semi-Dry
 
-When I searched online for semi-dry ideas and reviews I never once saw mention of the offering from O'Three in the U.K. I was diving with some technical divers from out of state when I noticed one of them was wearing what appeared to be an O'Three wetsuit. When I asked him about it he replied that it was actually their back-zip [65 Semi-Dry](https://www.othree.co.uk/shop/65-diving-semi-dry-wetsuit/) suit. To make a long story short, I wound up diving later that day in his suit to try it out. He wore a medium-large, which was too long for me. But despite the misfit it thoroughly impressed me. The quality was amazing and because of its adjustable neck strap I still kept water leakage to a minimum. The suit does not have thigh pockets, but my Apeks tech diving shorts fit over it just fine. That gives me the ability to use it for both backmount and sidemount diving. The separate hood fits me well. The water temperature that afternoon was about 58F, but I was still warm when I surfaced almost an hour later. 
+When I searched online for semi-dry reviews I never once saw mention of the offering from O'Three in the U.K. I was diving with some technical divers from out of state when I noticed one of them was wearing what appeared to be an O'Three wetsuit. When I asked him about it he replied that it was actually their back-zip [65 Semi-Dry](https://www.othree.co.uk/shop/65-diving-semi-dry-wetsuit/) suit. To make a long story short, I wound up diving later that day in his suit to try it out. He wore a medium-large, which fit me well. I was thoroughly impressed. The quality was amazing and because of its adjustable neck strap I still kept water leakage to a minimum. The suit does not have thigh pockets, but my Apeks tech diving shorts fit over it just fine. That gives me the ability to use it for both backmount and sidemount diving. The separate hood fits me well. The water temperature that afternoon was about 58F, but I was still warm when I surfaced almost an hour later. 
 
 As impressed as I was, the most amazing things about the 65 suit were yet to come. The suit costs about $370, and in subsequent conversations with O'Three have found them to be one of the most responsive companies out there. The suit is 6mm thick, so on the thin side compared to the others here, but I've really come around to the versatility of wearing Fourth Element Thermocline vest and shorts to give me additional warmth when needed, but more comfortable in summer than the other semi-drys considered.
 
@@ -82,7 +82,7 @@ Bottom line: This is hands down my favorite semi-dry suit. It's not quite as eff
 
 ### Apeks ThermiQ
 
-The [Apeks ThermiQ](https://www.apeksdiving.com/products/dive-wear/product/thermiq-8-7-wetsuit.html) is a new product in 2021. It looks similar to the Hollis NeoTek V2 but costs more—if you can find it anywhere in stock. Like the Neotek, it is 8mm thick in the abdomen and 7mm thick elsewhere. From online reviews it appears to be a great product, but the Apeks dealers I usually buy through here in North America bemoan that they don’t expect to receive them until next year at the rate Apeks is filling orders. I will update this page with my impressions when I get one.  
+The [Apeks ThermiQ](https://www.apeksdiving.com/products/dive-wear/product/thermiq-8-7-wetsuit.html) is a new product in 2021. It looks similar to the Hollis NeoTek V2 but costs more—if you can find it anywhere in stock. Like the Neotek, it is 8mm thick in the torso and 7mm thick elsewhere. From online reviews it appears to be a great product, but the Apeks dealers I usually buy through here in North America bemoan that they don’t expect to receive them until next year (2023 at this writing) at the rate Apeks is filling orders. I will update this page with my impressions when I get one, but [this online review](https://www.youtube.com/watch?v=xg98T4Uk1gk) stacks it up against the SD Combat. [This Simply Scuba review](https://www.youtube.com/watch?v=UMzsEtJWLko) also reviews it in detail. Regrettably, I haven't found any videos showing the ease of donning and doffing of the ThermiQ. 
 
 Bottom line: The ThermiQ will have a tough time beating out the cheaper and excellent Neotek V2 suit that it so closely resembles in design and features. I’m a huge Apeks fan but their supply chain is a dumpster fire. That’s a lot to overcome to beat out excellent semi-drys you can get now. But if it is easier to doff than the Neotek this could quickly become my favorite suit.
 
@@ -100,6 +100,23 @@ Until someone perfects the semi-dry pee valve there is no practical, much less s
 
 If you’ve made it this far please relentlessly badger the companies above to invent a pee value for semi-drys. Seriously. We’re living in the 21st century, after all. 
 
+## Scoring and final thoughts
+
+So, which semi-dry suit is best? It depends upon what you put into your equation and how much weight you place on each factor. For me, keeping mostly dry is paramount, for if it allows as much water to circulate through as a well-fitting wetsuit what's the point? I don't expect a semi-dry to be as easy to don and doff as a wetsuit, but I don't want it to be a two-person ordeal, either. Since I dive sidemount I need streamlined thigh pockets if I must have them at all. My subjective rankings on those factors on a scale of 1 (poor) to 5 (outstanding) come out to:
+
+| Suit                  | Fit/dry | Doffing | Thighs | Total |
+|-----------------------|:-------:|:-------:|:------:|:-----:|
+| O'Three 65            |    4    |    4    |   5    |   13  |
+| Waterproof SD Combat  |    4    |    4    |   3    |   11  |
+| Hollis NeoTek V2      |    5    |    2    |   4    |   11  |
+| Apeks Thermiq (guess) |    5    |    2    |   3    |   10  |
+| ScubaPro Nova Scotia  |    4    |    4    |   1    |   9   |
+
+As noted, my impressions of the Apeks Thermiq are guesses based on what others have said, as they remain even more elusive than the Waterproof SD Combat here in North America. And the score for Thighs is about how little the pouches interfere with sidemount cylinders rather than their capacity or utility. 
+
+It's clear that an attached hoods reduces the amount of water entering the suit. However, it does so at the expense of making it much harder to extricate oneself from it. In all fairness it's worth trying it on, for you might not find it as difficult to unhood from as I did. That arguably makes me a bit biased towards the hooded suits but I'll stand behind my rankings. Finally, not included in the chart above is the versatility of the O'Three 65. It is only 6mm thick, which reduces the amount of lead I need to add relative to the 8mm hooded suits. I can wear neutrally buoyant [Sharkskin Titanium] or [Fourth Element Thermocline] shorts and short-sleeved shirt beneath the 65 to add the equivalent of another 2-3mm of neoprene for insulation. This allows me bulk up or down as desired for comfort.
+
+After all of this, I'm still on the fence about semi-drys. They do keep me somewhere between mostly and almost dry. Most wetsuits cannot deliver on that, although the [Bare Reactive 7mm](https://www.baresports.com/products/mens-wetsuits/reactive/reactive-7mm/) seems to keep me almost as warm for dives up to 45 minutes in cool water (50-60F/10-16C), especially with Thermocline or Sharkskin Titanium on beneath it. But once you pee inside the semi-dry everything changes, and not for the better. The Bare Reactive is far more forgiving for that. If you'll never consider or need a dry suit the semi-dry might deliver most of its benefits at a fraction of the cost and hassle. I'm having a hard time choosing semi-dry over dry when the latter is an option. 
 
 
 
